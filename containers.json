@@ -1,0 +1,10 @@
+[
+  {
+    "Description": "Imported server",
+    "Format": "vhdx",
+    "UserBucket": {
+      "S3Bucket": "test232412",
+      "S3Key": "New Virtual Machine.vhdx"
+    }
+  }
+]
